@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/representationalism-and-anti-representationalism/","created":"2025-12-07T02:30:16.597-05:00","updated":"2025-12-12T02:19:57.230-05:00"}
+{"dg-publish":true,"permalink":"/representationalism-and-anti-representationalism/","created":"2025-12-07T02:30:16.597-05:00","updated":"2025-12-13T03:37:43.540-05:00"}
 ---
 
 R = representationalism
@@ -75,7 +75,7 @@ in PMN, [[Rorty\|Rorty]]'s core argument is a Manichean struggle in post-[[Kant\
 aiming to posit a general theory of knowledge, so understanding common structure of understanding, philosophy as the **"queen of the sciences"**
 (2) [[Hegel\|Hegel]] (according to Rorty) takes this view and socializes / historicizes it
 (Marx naturalizes it, making possible the bringing of philosophy back down to earth. study of practices, continuous with non-discursive animals) (this possibility is taken up by original American pragmatists, e.g., [[Peirce\|Peirce]])
--> but it was not meant to be, cause [[Russell\|Russell]] and [[Husserl\|Husserl]] invent different thinks for philosophy to  be apodictic about (& a priori)
+-> but it was not meant to be, cause [[Russell\|Russell]] and [[Husserl\|Husserl]] invent different things for philosophy to  be apodictic about (& a priori)
 
 Rorty says: analytic philosophy is just 20th century neo-Kantianism
 but, Rorty says [[Quine\|Quine]] and [[Sellars\|Sellars]] are P critics of analytic philosophy and should go alongside the original American pragmatists (so, the 20th century is just an unfortunate detour, despite development of technical tools of knowledge)
