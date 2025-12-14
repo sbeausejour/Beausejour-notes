@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/representationalism-and-anti-representationalism/","created":"2025-12-07T02:30:16.597-05:00","updated":"2025-12-13T03:37:43.540-05:00"}
+{"dg-publish":true,"permalink":"/representationalism-and-anti-representationalism/","created":"2025-12-07T02:30:16.597-05:00","updated":"2025-12-13T14:15:21.969-05:00"}
 ---
 
 R = representationalism
@@ -26,8 +26,8 @@ all of this is "in" all of post-Kantian philosophy, so, under P, philosophy will
 (in this, Rorty gets "left out" of analytic philosophy)
 
 larger movements at play: EW and LW
-EW -> logical tradition ([[Carnap\|Carnap]], [[Quine\|Quine]], [[Kripke\|Kripke]], etc.)
-LW -> anthropological tradition (classical American P, early [[Heidegger\|Heidegger]])
+EW → logical tradition ([[Carnap\|Carnap]], [[Quine\|Quine]], [[Kripke\|Kripke]], etc.)
+LW → anthropological tradition (classical American P, early [[Heidegger\|Heidegger]])
 (in fact, Misak will say that LW is a Cambridge P. Rorty says early Heidegger is too; Misak and Heideggerians are appalled by this, except [[Dreyfus\|Dreyfus]])
 
 ---
@@ -45,12 +45,12 @@ in 20th century, meta-ethical E of [[Ayer\|Ayer]] and [[Stevenson\|Stevenson]]
 Blackburn extends beyond the meta-ethical via [[Hume\|Hume]].
 Sellars and Blackburn are *local* anti-R
 Rorty is *global* anti-R
-( -> Sellars and Blackburn are happy to use D and R locutions to think about *some* discursive practices, e.g., "frog is on the log"
+→ Sellars and Blackburn are happy to use D and R locutions to think about *some* discursive practices, e.g., "frog is on the log"
 Rorty (and Price and original German E) says *even this* we shouldn't think of as D or R
 instead, it's a *mode of coping*
 
 regarding that R is wider than D; all D is R, but not all R is D
--> declarativism
+→ declarativism
 declarative sentences as fact-stating, OED
 contra this, see [[Geach\|Geach]]'s essay "Ascriptivism"
 "macarize" ... for Geach, there is an "embedding test"
@@ -72,7 +72,7 @@ Price, via W, wants us to be subject naturalists (insofar as object naturalism s
 
 in PMN, [[Rorty\|Rorty]]'s core argument is a Manichean struggle in post-[[Kant\|Kant]]ian philosophy
 (1) neo-Kantianism (ending in [[C.I. Lewis\|C.I. Lewis]] and [[Carnap\|Carnap]])
-aiming to posit a general theory of knowledge, so understanding common structure of understanding, philosophy as the **"queen of the sciences"**
+aiming to posit a general theory of knowledge, so understanding common structure of understanding, philosophy as the "QUEEN OF THE SCIENCES"
 (2) [[Hegel\|Hegel]] (according to Rorty) takes this view and socializes / historicizes it
 (Marx naturalizes it, making possible the bringing of philosophy back down to earth. study of practices, continuous with non-discursive animals) (this possibility is taken up by original American pragmatists, e.g., [[Peirce\|Peirce]])
 -> but it was not meant to be, cause [[Russell\|Russell]] and [[Husserl\|Husserl]] invent different things for philosophy to  be apodictic about (& a priori)
