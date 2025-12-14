@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/the-life-of-biopower/","created":"2025-12-13T03:12:09.941-05:00","updated":"2025-12-14T01:38:20.186-05:00"}
+{"dg-publish":true,"permalink":"/the-life-of-biopower/","created":"2025-12-13T03:12:09.941-05:00","updated":"2025-12-14T03:24:50.036-05:00"}
 ---
 
 # *The History of Sexuality*, Part V: “Right of Death and Power Over Life,” 1976
 
-[[Foucault\|Foucault]]'s account of the shift from sovereign power (take life or let live) to biopower (make live and let die)
+**[[Foucault\|Foucault]]'s account of the shift from sovereign power (take life or let live) to biopower (make live and let die); this is a movement from a negative power symbolized by the sword and deduction to a positive power focused on generating forces, making them grow, ordering them, and investing in life. Biopower evolves in two poles: discipline focused on the individual body as machine (anatamo-politics) and regulations focused on biological processes of populations (biopolitics), thus forming a bipolar system whose highest function is no longer to kill but to invest in life. Foucault draws various consequences of this bipolar system of biopower, e.g., death becomes residual, it was essential for the rise of capitalism, it was essential for the rise of modernity (where man is an animal whose politics places his existence as a living being in question, against [[Aristotle\|Aristotle]]), law was subsumed into norms (normalizing society), a symbolics of blood shifted to an analytics of sexuality, etc. Sex is important insofar as it is a means of access to anatamo-politics and biopolitics, to disciplines and regulations. The politics of sex advanced through "four great lines of attack": the sexualization of children, the hysterization of women, birth control, and the psychiatrization of perversions. Far from being repressed (against [[Freud\|Freud]]), sex was already in deployment (against critics of Freudian pansexualism)**
 
 ---
 
@@ -87,21 +87,18 @@ symbolics of blood → analytics of sexuality (147-8)
 - i.e., the view of sexuality for fascism was primarily biological, but for Freud, symbolic
 - grounded in blood for fascism and law for Freud
     
-
 ---
 
 (151)
 - Foucault preempts the objection against him that he it too historicist (reducing sex to the history of sexuality, i.e., doing a castration) (his refusal to do an ontology of sex)
 - to Foucault, these critiques ↑ ignore the fact that analyzing sexuality does not equate to the erasure of biological sex (in fact, analysis of biopower is what shows that the biological and historical are intertwined)
     
-
 ---
 
 (151-3)
 - what does "sex" really mean? cause in the 19th century, sex was quasi-metaphysical (developed via hysterization of women and sexualization of childhood ... in these deployments, sex as paradoxical: present and absent, whole and part, etc., is developed) ...
 - that is to say that sex was never described just in terms of genitals and reproduction ... sex was already an ESSENCE
     
-
 ---
 
 (154-5)
@@ -118,8 +115,7 @@ symbolics of blood → analytics of sexuality (147-8)
     
 ---
 
-(156-7
-
+(156-7)
 - sex is an imaginary element ...
 - belief in the affirmation of sexual freedom and rights is participation in system of power (seems sacred, but is historically and socially produced)
 
@@ -128,7 +124,6 @@ symbolics of blood → analytics of sexuality (147-8)
 (157)
 - must not place sex outside of the history of sexuality ... focus should be on bodies, pleasures, knowledge .. their "multiplicity and their possibility of resistance"
     
-
 ---
 
 (158-9)
@@ -138,29 +133,119 @@ symbolics of blood → analytics of sexuality (147-8)
 - despite repression (e.g., Christian asceticism, bourgeois morality) society was actively producing sexuality (or sex?), deploying it
 - (sovereignty of sex is an illusion, we are "MOVED BY THE POWER MECHANISMS OF SEXUALITY"
 - SO, critics of Freud critique his pansexualism (finding sex everywhere) but Foucault says they miss the historical context ... ↑ sexuality was already in deployment
-
-
-
-
-
-
-
-
-
-
-
-biopower has death as its limit, and therefore must confront the paradox of killing, e.g., wars, executions, etc., as part of a fostering, cultivation, and regulation of life. 
-biopower as bi-polar (disciplining individual bodies and regulating populations). 
-biopower was essential for the rise of capitalism and the rise of modernity (man as a living animal with the capacity for political existence (Aristotle), to man as an an animal whose politics places his existence as a living being in question), 
-the subsuming of law into norms (normalizing society), 
-
-the shift from a symbolics of blood to an analytics of sexuality. 
-sex is central insofar as it links both poles of biopower, producing obsessions with childhood, women, perversions, and reproduction. Far from being repressed (*contra* Freudian picture), sex was already in deployment (*pro* Freudian “pansexualism”).
 # "Society Must Be Defended," eleven, 1976
 
-[[Foucault\|Foucault]]'s earlier account of the shift from sovereign power to biopower
+**[[Foucault\|Foucault]]'s earlier account of the shift from sovereign power to biopower. Rather than centralizing sex, Foucault centralizes State racism. Rather than just describing race as re-entering into sexual and political discourse via, e.g., eugenics and fertility, Foucault says: race is the mechanism by which biopower's positive function (making live) can authorize letting die. Racism provides this function by fracturing the biological continuum of the population, introducing divisions and groups, shifting the traditional focus on sovereign enemies to biological enemies (e.g., inferior races, degenerates, etc., which may be intra-population). This logic is located, clearly, in Nazism, but Foucault says it is present in all modern states. Simply, once a state has accepted the mechanisms of biopower, the only way to reconcile “making live” with the necessity of killing is through racism.**
 
+---
 
+(239)
+- war as grid for understanding historical process
+- in 18th century, war as race conflicts ...
+- war gets displaced, but race persists in STATE RACISM
+- my note: keep in mind the focus on race as opposed to on sex in *the history of sexuality* ↑
+
+---
+
+(240-1)
+- 19th century. the biological comes under the control of State power
+- again, sovereign power (to take life or let live) is complemented by a new opposite right (make live and let die)
+
+---
+
+(241-2)
+- this idea of life was already problematized in jurists' debates in 17th-18th century ...
+	- i.e., if social contract delegates power to the sovereign to preserve lives (due to some external threat), how could life be the sovereigns right? putting it that way, it seems that "life" already assumed, it is already foundational
+- Foucault puts this aside, he is more concerned with the atomics of power, e.g., DISCIPLINE (which makes life the object of management)
+	- my note: Foucault as a power atomist, against [[Althusser\|Althusser]]
+
+---
+
+(242-3)
+- Foucault, in *the history of sexuality*, describes anatamo-politics and biopolitics. here, he describes in more detail their sequential development
+- first, man as body, then, man as living being, living species
+- anatamo-politics (individualizing) v. biopolitics (massifying)
+
+---
+
+(243-4)
+- 2nd half of 18th century, development of demography (targets like ratio of births to deaths, fertility, morality rate, etc.) ...
+- biopolitics as statistical
+- natalist policies show that biopolitics is not just descriptive, also prescriptive ... 
+- also instead of a concern with epidemics (death swoops down suddenly), a concern with endemics (death becomes permanent, gnawing, immanent within life itself .. within population)
+- biopolitics extends beyond just mortality and fertility to a whole range of incapacities / accidents ..  these become embedded not just in charities, but in rational frameworks, e.g., insurance ...
+
+---
+
+(245-6)
+- the phenomena studied in biopolitics (not anatamo-politics) are only pertinent at mass level (unpredictable when taken individual), must be studied over time ...
+
+> “Disciplines, for their part, dealt with individuals and their bodies in practical terms. What we are dealing with in this new technology of power is not exactly society (or at 'least not the social body, as defined by the jurists), nor is it the individual- as-body. It is a new body, a multiple body, a body with so many heads that, while they might not be infinite in number, cannot necessarily be counted. Biopolitics deals with the population, with the population as political problem, as a problem that is at once scientific and political, as a biological problem and as power's problem. And I think that biopolitics emerges at this time” 
+
+---
+
+(246-8)
+- insofar as bio-politics is concerned with certain mechanisms (forecasts, statistical mechanisms), their purpose is not to modify an individual, but to intervene at the level of these general phenomena ...  thus a shift from discipline to regulation (regularized society)
+- biopower as make live and let die ...  
+- make live = productive
+- let die = the de-ritualization of death (this moment was ritualized under sovereign power because it was the transfer from sovereign power to divine power, from living to divine, etc.) ...  
+- since biopower focuses on "making live," death becomes something outside of this positive field of action ....
+	- i.e., insofar as biopower is concerned with cultivating LIFE, its power ENDS with death (so it is natural that is becomes privatized) ...
+	- what was once the most grand manifestation of power (death), power now ignores ... power ignores death
+
+---
+
+(249-50)
+
+> One might say this: It is as though power, which used to have sovereignty as its modality or organizing schema, found itself unable to govern the economic and political body of a society that was undergoing both a demographic explosion and industrialization. So much so that far too many things were escaping the old mechanism of the power of sovereignty, both at the top and at the bottom, both at the level of detail and at the mass level. A first adjustment was made to take care of the details. Discipline had meant adjusting power mechanisms to the individual body by using surveillance and training. That, of course, was the easier and more convenient thing to adjust. That is why it was the first to be introduced—as early as the seventeenth century, or the beginning of the eighteenth—at a local level, in intuitive, empirical, and fragmented forms, and in the restricted framework of institutions such as schools, hospitals, barracks, workshops, and so on. And then at the end of the eighteenth century, you have a second adjustment; the mechanisms are adjusted to phenomena of population, to the biological or biosociological processes characteristic of human masses. This adjustment was obviously much more difficult to make because it implied complex systems of coordination and centralization.
+
+---
+
+(250-2)
+- there is not just body-organism-discipline institutions and the population-biological processes-regulatory mechanisms. State apparatuses as completely separate entities ... disciplines take on Statist dimension and vise versa
+- e.g., consider working class housing estates (towns) in 19th century ...  
+	- both technologies of power converge (disciplinary (individuals are made visible, anticipating panopticism?) and regulatory (rules on hygiene, health insurance, pressures that the town imposes on sex, child care, education, etc.)
+
+---
+
+(252)
+- sexuality as important as a meeting of body and population. ofc, taken up in *the history of sexuality*
+- medicine in the same way (e.g., controlling behavior and life expectancy, fertility, etc.) ...
+
+---
+
+(252-3)
+- the NORM links the disciplinary body and regulatory population ...  so, NORMALIZING SOCIETY
+
+---
+
+(253-4)
+- excess of sovereignty → death overrides life, symbolized by atomic bomb
+- excess of biopower → technological (and political) possibility to proliferate life in a sense that it cannot be controlled
+
+---
+
+(254-7)
+- **in *the history of sexuality*, Foucault describes race as re-entering into sexual and political discourse (blood, eugenics, fertility)**
+- **here, there is a clearer function: race is the mechanism by which biopower's positive function (making live) can authorize letting die (racism provides the political and scientific basis for the state to distribute death)**
+- ↓ where biopower treats population as biological continuum, racism fractures that continuum ... caesura ... introduces divisions within life (fragments groups) ...
+
+> Once the State functions in the biopower mode, racism alone can justify the murderous function of the State. 
+
+- old logic of war said that if you want to live you must destroy enemies .. 
+	- racism transposes this biologically by changing focus from sovereign enemies to biological enemies (inferior races, degenerates, etc. ..... INTRA POPULATION)
+	- IN THIS SENSE, racism doesn't just justify killing, it transforms it into a normalizing function
+- this ↑ logic dovetails with evolutionism ...  
+	- Foucault distinguishes between [[Darwin\|Darwin]]ism and the uses of Darwinism (this is the scientific framework for state racism)
+- RACISM LETS A STATE (UNDER BIOPOWER) KILL FOR THE SAKE OF LIFE
+
+---
+
+(257-63)
+- Nazism was where biopower and sovereign power collapsed into each other ... Nazism as disciplinary and also biological .. but also sovereign right to kill
+- the logic of this is present in all modern states (and socialism is not immune, since socialism has never done a complete critique of biopower)  
+	- i.e., racism as the precondition for state-distributed death
+	- **i.e., socialism also accepted the mechanisms of biopower ... and once these mechanisms are in place, the only way to reconcile “making live” with the necessity of killing is through racism**
 # "Postscript on the Societies of Control"
 
 [[Deleuze\|Deleuze]]
