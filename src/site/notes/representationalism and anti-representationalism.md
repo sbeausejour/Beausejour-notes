@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/representationalism-and-anti-representationalism/","created":"2025-12-07T02:30:16.597-05:00","updated":"2025-12-13T14:15:21.969-05:00"}
+{"dg-publish":true,"permalink":"/representationalism-and-anti-representationalism/","created":"2025-12-07T13:12:17.743-05:00","updated":"2025-12-13T14:15:21.000-05:00"}
 ---
 
 R = representationalism
